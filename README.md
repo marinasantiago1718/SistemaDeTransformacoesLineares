@@ -33,3 +33,9 @@ Este projeto visa:
 - Auxiliar em estudos acadêmicos de Álgebra Linear, Cálculo Numérico e Geometria Computacional;
 
 Sendo possível servir como base para aplicações gráficas, computação gráfica, física computacional e simulações.
+
+Tecnologias Utilizadas
+- Linguagem: Java (POO, modularidade e encapsulamento);
+- Paradigma: Programação Orientada a Objetos;
+- Estruturas: Arrays para operações matriciais e vetoriais;
+- Boas Práticas: Código limpo, validação de dados e documentação.
