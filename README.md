@@ -2,19 +2,19 @@ Este sistema foi desenvolvido com o objetivo de fornecer uma base sólida para o
 
 🔹 Principais Funcionalidades
 
---Classe Matrix:--
+--Classe Matrix:
 
 - Criação, manipulação e representação de matrizes de qualquer dimensão;
 
 - Suporte a validações internas para garantir consistência dimensional.
 
 
---Classe Vector:--
+--Classe Vector:
 
 - Criação, manipulação e representação de vetores em n-dimensões;
 
 
---Classe Transformations:--
+--Classe Transformations:
 
 - Implementação de transformações lineares usadas em geometria computacional;
 
@@ -22,7 +22,7 @@ Este sistema foi desenvolvido com o objetivo de fornecer uma base sólida para o
 
 - Combinação de transformações por multiplicação de matrizes.
   
---Classe Linear Algebra:--
+--Classe Linear Algebra:
 - Operações como soma, subtração, produto escalar e produto vetorial e matricial;
 -  Cálculo de transposta, determinante, inversa, entre outros;
 
